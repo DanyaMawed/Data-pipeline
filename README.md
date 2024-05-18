@@ -50,10 +50,10 @@
 
 ![image](https://github.com/DanyaMawed/Data-pipeline/blob/d1d2e41e1f420f352fc14715f4f8ff4900bd49e7/Screenshots/Pipeline.png)
 
-# screenshot of query from SQL DB summary table
+### screenshot of query from SQL DB summary table
 ![image](https://github.com/DanyaMawed/Data-pipeline/blob/94e9e0f56b73ad02562d1a581ebe82d28028bbe6/Screenshots/queryeditor.png)
 
-# screenshot of successful pipeline run. All activity runs and dataflow success indicators should be visible
+### screenshot of successful pipeline run. All activity runs and dataflow success indicators should be visible
 ![image](https://github.com/DanyaMawed/Data-pipeline/blob/94e9e0f56b73ad02562d1a581ebe82d28028bbe6/Screenshots/dataflow%20in%20the%20data%20pipeline.png)
 
 ## step 6:
