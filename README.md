@@ -55,11 +55,4 @@
 ![image](https://github.com/DanyaMawed/Data-pipeline/blob/d1d2e41e1f420f352fc14715f4f8ff4900bd49e7/Screenshots/git%20.png)
 
 
-![image]()
-
-
-![image]()
-
-![image]()
-
 
