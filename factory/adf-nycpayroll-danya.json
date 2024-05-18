@@ -1,0 +1,9 @@
+{
+	"name": "adf-nycpayroll-danya",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "28cfa287-baee-40f4-8683-0389248fd502",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
